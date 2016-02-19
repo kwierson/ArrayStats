@@ -22,5 +22,6 @@ public class ArrayStats {
 		System.out.println(myArray[i]);
 	}
 	
+	System.out.println("THIS IS A TEST!");
 }
 }
